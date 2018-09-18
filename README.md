@@ -24,4 +24,4 @@ proj/
 ├── figs/
 └── output/
 ```
-+ My project is in the doc/ document named project1
++ My project is in the doc document named project1.Rmd
