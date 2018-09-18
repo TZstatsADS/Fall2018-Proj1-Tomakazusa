@@ -9,10 +9,10 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2018
 
-+ Projec title: Lorem ipsum dolor sit amet
++ Project title: Research on HappyDB
 + This project is conducted by Yingqiao Zhang
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: I mainly used exploratary data analysis and topic modeling in this project. In the first part, I made many graphs to show the relationship between different variables and got reasonal conclusions. In the second part, I used LDA algorithm to assign each happy moments into a topic and got useful properties of each topic including the most frequent words, the probability each happy moments assigned to them, and the relative importance of them. 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
