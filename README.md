@@ -24,5 +24,4 @@ proj/
 ├── figs/
 └── output/
 ```
-
-Please see each subfolder for a README file.
++ My project is in the doc/ document named project1
